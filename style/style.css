@@ -470,6 +470,9 @@ body::selection {
 .fourth-section .maylike {
     margin-bottom: -60px;
 }
+.stuff2 > div {
+    overflow: hidden;
+}
 .stuff2 > div::after {
     background: url(../images/like5.webp);
     transform: translateY(-75%);
